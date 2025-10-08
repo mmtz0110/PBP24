@@ -3,4 +3,4 @@ const statusKaryawan = {
     cuti: "Sedang Cuti",
     resign: "Tidak Bekerja Lagi"
 };
-console.log(statusKaryawan.cuti);
+console.log(statusKaryawan.resign);
