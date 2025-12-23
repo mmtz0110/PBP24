@@ -1,0 +1,37 @@
+{
+<<<<<<< HEAD
+  "name": "pemplat",
+  "version": "1.0.0",
+  "description": "latihan sesi 5 pemrograman berbasis platform",
+  "keywords": [
+    "latihan5"
+  ],
+  "license": "ISC",
+  "author": "mumz",
+  "type": "commonjs",
+  "main": "sistem.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "dependencies": {
+    "node": "^24.10.0"
+=======
+  "name": "tugassesi12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "joi": "^18.0.2"
+>>>>>>> ecbe1b6 (tugas 12)
+  }
+}
